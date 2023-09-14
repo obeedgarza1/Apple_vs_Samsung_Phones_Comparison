@@ -1,0 +1,29 @@
+Brand,Phone Model,Year Released,Total Sales (millions),Storage Options,Display Type,Charging Technology,Front Camera Specs,Rear Camera Specs,Weight (grams),Battery Capacity (mAh),Average Screen Time (hours),Operating System,Dimensions (mm),Audio,Display Resolution,IP Rating,Average Price,Earphones,Power adapter
+Apple,iPhone (Original),2007,6.1,"4GB, 8GB",TFT LCD,30-pin Dock,2 MP,2 MP,135,1400,5.0,iOS (iPhone OS 1),115.5 x 61,Mono Speaker,320 x 480,No IP Rating,549.0,1,1
+Apple,iPhone 3G,2008,21.4,"8GB, 16GB",TFT LCD,30-pin Dock,0.3 MP,2 MP,133,1150,5.0,iOS (iPhone OS 2),115.5 x 62.1,Mono Speaker,320 x 480,No IP Rating,649.0,1,1
+Apple,iPhone 3GS,2009,24.0,"16GB, 32GB",LCD,30-pin Dock,3.15 MP,3.15 MP,135,1219,6.0,iOS 3.0,115.5 x 62.1 x 12.3,Mono speaker,320x480,,649.0,1,1
+Apple,iPhone 4,2010,72.3,"16GB, 32GB",Retina IPS LCD,30-pin Dock,0.3 MP,5 MP,137,1420,6.0,iOS 4,115.2 x 58.6,Stereo Speakers,640 x 960,No IP Rating,649.0,1,1
+Apple,iPhone 4S,2011,89.0,"16GB, 32GB, 64GB",Retina,30-pin Dock,0.3 MP,8 MP,140,1432,6.5,iOS 5.0,115.2 x 58.6 x 9.3,Stereo speaker,640x960,,699.0,1,1
+Apple,iPhone 5,2012,135.8,"16GB, 32GB, 64GB",Retina,Lightning,1.2 MP,8 MP,112,1440,7.0,iOS 6.0,123.8 x 58.6 x 7.6,Stereo speaker,640x1136,,699.0,1,1
+Apple,iPhone 5S,2013,150.0,"16GB, 32GB, 64GB",Retina,Lightning,1.2 MP,8 MP,112,1570,7.5,iOS 7.0,123.8 x 58.6 x 7.6,Stereo speaker,640x1136,,699.0,1,1
+Apple,iPhone 6,2014,220.0,"16GB, 64GB, 128GB",Retina IPS LCD,Lightning (8-pin),1.2 MP,8 MP,129,1810,7.5,iOS 8,138.1 x 67,Stereo Speakers,750 x 1334,No IP Rating,749.0,1,1
+Apple,iPhone 6S,2015,231.0,"16GB, 64GB, 128GB",Retina,Lightning,5 MP,12 MP,143,1715,7.5,iOS 9.0,138.3 x 67.1 x 7.1,Stereo speaker,750x1334,,749.0,1,1
+Apple,iPhone 7,2016,211.6,"32GB, 128GB, 256GB",Retina IPS LCD,Lightning (8-pin),7 MP,12 MP,138,1960,8.0,iOS 10,138.3 x 67.1,Stereo Speakers,750 x 1334,IP67,749.0,1,1
+Apple,iPhone SE (1st gen),2016,30.0,"16GB, 64GB",Retina IPS LCD,Lightning (8-pin),1.2 MP,12 MP,113,1624,8.0,iOS 9,123.8 x 58.6,Stereo Speakers,640 x 1136,No IP Rating,449.0,1,1
+Apple,iPhone 8,2017,77.3,"64GB, 256GB",Retina,Lightning,7 MP,12 MP,148,1821,8.0,iOS 11.0,138.4 x 67.3 x 7.3,Stereo speaker,750x1334,IP67,774.0,1,1
+Apple,iPhone X,2017,63.0,"64GB, 256GB",Super Retina OLED,Lightning (8-pin),7 MP,12 MP + 12 MP,174,2716,8.0,iOS 11,143.6 x 70.9,Stereo Speakers,1125 x 2436,IP67,1074.0,1,1
+Apple,iPhone XS,2018,64.2,"64GB, 256GB, 512GB",OLED,Lightning,7 MP,Dual 12 MP,177,2658,8.0,iOS 12.0,143.6 x 70.9 x 7.7,Stereo speaker,1125x2436,IP68,1174.0,1,1
+Apple,iPhone 11,2019,37.0,"64GB, 128GB, 256GB",Liquid Retina LCD,Lightning (8-pin),12 MP,12 MP + 12 MP,194,3110,9.0,iOS 13,150.9 x 75.7,Stereo Speakers,828 x 1792,IP68,774.0,1,1
+Apple,iPhone SE (2nd Gen),2020,24.2,"64GB, 128GB, 256GB",Retina HD,Lightning,7 MP,Single 12 MP,148,1821,8.0,iOS 13.0,138.4 x 67.3 x 7.3,Stereo speaker,750x1334,IP67,474.0,1,1
+Apple,iPhone 12,2020,82.0,"64GB, 128GB, 256GB",Super Retina XDR OLED,Lightning (8-pin),12 MP,12 MP + 12 MP,164,2815,9.0,iOS 14,146.7 x 71.5,Stereo Speakers,1170 x 2532,IP68,949.0,0,0
+Samsung,Samsung Galaxy S,2010,24.0,"8GB, 16GB",Super AMOLED,Micro USB,0.3 MP,5 MP,119,1500,5.0,Android 2.3,122.4 x 64.2,Stereo Speakers,480 x 800,IP68,500.0,1,1
+Samsung,Samsung Galaxy S2,2011,40.0,"16GB, 32GB",Super AMOLED Plus,Micro USB,2 MP,8 MP,116,1650,6.0,Android 2.3,125.3 x 66.1,Stereo Speakers,480 x 800,IP68,400.0,1,1
+Samsung,Samsung Galaxy S3,2012,70.0,"16GB, 32GB, 64GB",Super AMOLED HD,Micro USB,1.9 MP,8 MP,133,2100,6.0,Android 4.0,136.6 x 70.6,Stereo Speakers,720 x 1280,IP67,375.0,1,1
+Samsung,Samsung Galaxy S4,2013,80.0,"16GB, 32GB, 64GB",Super AMOLED,Micro USB,2 MP,13 MP,130,2600,5.0,Android 4.2,136.6 x 69.8,Stereo Speakers,1080 x 1920,IP67,500.0,1,1
+Samsung,Samsung Galaxy S5,2014,65.0,"16GB, 32GB",Super AMOLED,Micro USB,2.1 MP,16 MP,145,2800,7.0,Android 4.4,142 x 72.5,Stereo Speakers,1080 x 1920,IP67,500.0,1,1
+Samsung,Samsung Galaxy S6,2015,45.0,"32GB, 64GB, 128GB",Super AMOLED,Micro USB,5 MP,16 MP,138,2550,6.0,Android 5.0,143.4 x 70.5,Stereo Speakers,1440 x 2560,IP68,600.0,1,1
+Samsung,Samsung Galaxy S7,2016,48.0,"32GB, 64GB",Super AMOLED,Micro USB,5 MP,12 MP,152,3000,6.5,Android 6.0,142.4 x 69.6,Stereo Speakers,1440 x 2560,IP68,600.0,1,1
+Samsung,Samsung Galaxy S8,2017,37.0,"64GB, 128GB",Super AMOLED,USB-C,8 MP,12 MP,155,3000,6.0,Android 7.0,148.9 x 68.1,Stereo Speakers,1440 x 2960,IP68,700.0,1,1
+Samsung,Samsung Galaxy S9,2018,35.0,"64GB, 128GB, 256GB",Super AMOLED,USB-C,8 MP,12 MP,163,3000,6.5,Android 8.0,147.7 x 68.7,Stereo Speakers,1440 x 2960,IP68,725.0,1,1
+Samsung,Samsung Galaxy S10,2019,44.0,"128GB, 512GB",Dynamic AMOLED,USB-C,10 MP,12 MP + 12 MP + 16 MP,157,3400,7.0,Android 9.0,149.9 x 70.4,Stereo Speakers,1440 x 3040,IP68,1100.0,1,1
+Samsung,Samsung Galaxy S20,2020,20.0,"128GB, 256GB, 512GB",Dynamic AMOLED 2X,USB-C,10 MP,12 MP + 64 MP + 12 MP,163,4000,6.5,Android 10,151.7 x 69.1,Stereo Speakers,1440 x 3200,IP68,1150.0,1,1
